@@ -7,7 +7,7 @@
 ## Dashboard Preview
 
 ### Page 1: Executive SLA Diagnostic
-![Executive SLA Diagnostic](dashboard_image1.jpg)
+![Executive SLA Diagnostic](dashboard_image1.png)
 
 ### Page 2: Shipping Corridors & Weight Risk
 ![Shipping Corridors & Weight Risk](dashboard_image2.png)
